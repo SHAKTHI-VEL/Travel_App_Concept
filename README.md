@@ -36,13 +36,13 @@ To run this project locally, you need to have Node installed on your machine. Fo
 1. Clone this repository to your local machine using the following command:
 
    ```
-   https://github.com/SHAKTHI-VEL/Calculator-React-Native.git
+   https://github.com/SHAKTHI-VEL/Travel_App_Concept.git
    ```
 
 2. Change your current directory to the project folder:
 
    ```
-   cd Calculator-React-Native
+   cd Travel_App_Concept
    ```
 
 3. Run the following command to fetch the dependencies:
