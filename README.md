@@ -1,6 +1,7 @@
 # TRAVEL APP CONCEPT REACT NATIVE
 
 This is a Travel App built using React Native, a popular cross-platform framework for building mobile applications. The app is made for practicising Native Wind which is an extension of tailwind css for React Native Apps
+
 -Design-Credits:(https://dribbble.com/shots/15172316-Travel-App-Concept)
 
 
@@ -10,7 +11,11 @@ This is a Travel App built using React Native, a popular cross-platform framewor
 
 
 
-https://github.com/SHAKTHI-VEL/Calculator-React-Native/assets/93870684/3af95276-6df4-4c00-9e60-a7854aa99089
+https://github.com/SHAKTHI-VEL/Travel_App_Concept/assets/93870684/953fdffc-b070-40f4-b84f-2ce2deb4e6e2
+
+
+
+
 
 
 
